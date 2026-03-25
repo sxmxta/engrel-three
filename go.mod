@@ -1,8 +1,8 @@
-module github.com/energye/engrel-three
+module github.com/sxmxta/engrel-three
 
 go 1.20
 
 
 require (
-	github.com/energye/engrel-two v1.0.0
+	github.com/sxmxta/engrel-two v1.0.0
 )
