@@ -2,6 +2,6 @@ module github.com/sxmxta/engrel-three
 
 go 1.20
 
-require github.com/sxmxta/engrel-two v1.0.12
+require github.com/sxmxta/engrel-two v1.0.13
 
-require github.com/sxmxta/engrel-one v1.0.10 // indirect
+require github.com/sxmxta/engrel-one v1.0.11 // indirect
