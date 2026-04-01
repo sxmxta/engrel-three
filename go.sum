@@ -1,4 +1,6 @@
-github.com/sxmxta/engrel-one v1.0.14 h1:SBqOKnlOfxulK4CM42ZTivXNMCjUMqvsPH9pVrgeVW0=
-github.com/sxmxta/engrel-one v1.0.14/go.mod h1:WQfk5sv5+ed+S9TgoSntnTLlv13V5xR+GFK2O1B++3w=
-github.com/sxmxta/engrel-two v1.0.17 h1:hPvpethvlneyJEsdLnpvoIaOvByBo43jQTbtBAXTZwo=
-github.com/sxmxta/engrel-two v1.0.17/go.mod h1:fqX8tfJ27UeCGMNNhTTZjk8QfS+f5oEg/nflGo/foRk=
+github.com/sxmxta/engrel-four v1.0.1 h1:21hCWjFAxZ27iXXdd26PHQJSdLAkAdGig+hfgJsXE8g=
+github.com/sxmxta/engrel-four v1.0.1/go.mod h1:H8559wf6883Pjnvr/dQL1UE1VSOct8U25fm5QjrQG9Y=
+github.com/sxmxta/engrel-one v1.0.15 h1:5BmkvUm+TSrGK32lF7gyn5EPxUiBTFAnh7yvdVB4eAg=
+github.com/sxmxta/engrel-one v1.0.15/go.mod h1:WQfk5sv5+ed+S9TgoSntnTLlv13V5xR+GFK2O1B++3w=
+github.com/sxmxta/engrel-two v1.0.18 h1:J6rQVIsg9aDkuk1Tyg7i2UyNL7Q+DCuU/ozJoPcOcVE=
+github.com/sxmxta/engrel-two v1.0.18/go.mod h1:gDNQ0OjnuKEG/IUiq5ISL2xFs7Dce8HQGr6jlPy31Go=
